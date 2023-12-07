@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to Pematrix Technologies!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Our site is currently under construction <code>We will be back before you know it!</code>
         </p>
       </main>
 
